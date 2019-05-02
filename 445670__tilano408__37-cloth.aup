@@ -1,32 +1,12 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="445670__tilano408__37-cloth_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.3263492063" vpos="0" h="0.0000000000" zoom="680.2646134590" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="445670__tilano408__37-cloth_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="0.3417687075" vpos="0" h="0.0000000000" zoom="680.2646134590" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
-	<wavetrack name="445670__tilano408__37-cloth" channel="0" linked="1" mute="1" solo="0" height="113" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="213462">
-				<waveblock start="0">
-					<simpleblockfile filename="e0808ab7.au" len="213462" min="-0.019356" max="0.042465" rms="0.00368"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="445670__tilano408__37-cloth" channel="1" linked="0" mute="1" solo="0" height="113" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="213462">
-				<waveblock start="0">
-					<simpleblockfile filename="e08085a4.au" len="213462" min="-0.019356" max="0.042465" rms="0.00368"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
 	<wavetrack name="445670__tilano408__37-cloth" channel="0" linked="1" mute="0" solo="0" height="88" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="14392">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808743.au" len="14392" min="-0.009523" max="0.042465" rms="0.011141"/>
+					<simpleblockfile filename="e0808b2d.au" len="14392" min="-0.224247" max="1.0" rms="0.262353"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -36,27 +16,27 @@
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="14392">
 				<waveblock start="0">
-					<simpleblockfile filename="e08085c0.au" len="14392" min="-0.009523" max="0.042465" rms="0.011141"/>
+					<simpleblockfile filename="e0808e16.au" len="14392" min="-0.224247" max="1.0" rms="0.262353"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="445670__tilano408__37-cloth" channel="0" linked="1" mute="0" solo="0" height="75" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="445670__tilano408__37-cloth" channel="0" linked="1" mute="0" solo="0" height="75" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="15072">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808674.au" len="15072" min="-0.006765" max="0.022765" rms="0.005503"/>
+					<simpleblockfile filename="e08086b1.au" len="15072" min="-0.159315" max="0.536078" rms="0.129596"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="445670__tilano408__37-cloth" channel="1" linked="0" mute="0" solo="0" height="75" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="445670__tilano408__37-cloth" channel="1" linked="0" mute="0" solo="0" height="75" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="15072">
 				<waveblock start="0">
-					<simpleblockfile filename="e080842c.au" len="15072" min="-0.006765" max="0.022765" rms="0.005503"/>
+					<simpleblockfile filename="e0808e59.au" len="15072" min="-0.159315" max="0.536078" rms="0.129596"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
