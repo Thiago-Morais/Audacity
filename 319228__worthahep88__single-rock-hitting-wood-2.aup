@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="319228__worthahep88__single-rock-hitting-wood-2_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.2124791667" vpos="0" h="0.0000000000" zoom="2384.5108695652" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="319228__worthahep88__single-rock-hitting-wood-2" channel="0" linked="1" mute="0" solo="0" height="90" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8371">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808111.au" len="8371" min="-1.0" max="0.981031" rms="0.056665"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="319228__worthahep88__single-rock-hitting-wood-2" channel="1" linked="0" mute="0" solo="0" height="90" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8371">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f95.au" len="8371" min="-0.999778" max="0.981615" rms="0.056677"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="319227__worthahep88__single-rock-hitting-wood-4" channel="0" linked="1" mute="0" solo="0" height="88" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6421">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808555.au" len="6421" min="-0.699852" max="0.920578" rms="0.065539"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="319227__worthahep88__single-rock-hitting-wood-4" channel="1" linked="0" mute="0" solo="0" height="88" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6421">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b39.au" len="6421" min="-0.699692" max="0.920658" rms="0.065533"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="319226__worthahep88__single-rock-hitting-wood" channel="0" linked="1" mute="0" solo="0" height="73" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10199">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b0b.au" len="10199" min="-0.865367" max="0.912202" rms="0.059379"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="319226__worthahep88__single-rock-hitting-wood" channel="1" linked="0" mute="0" solo="0" height="73" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10199">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a4f.au" len="10199" min="-0.86547" max="0.912251" rms="0.059377"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

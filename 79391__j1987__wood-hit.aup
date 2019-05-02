@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="79391__j1987__wood-hit_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.7024263039" vpos="0" h="0.0000000000" zoom="562.3368551896" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="79391__j1987__wood-hit" channel="0" linked="1" mute="1" solo="0" height="98" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="236523">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808afb.au" len="236523" min="-0.497058" max="0.48415" rms="0.032617"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="1" linked="0" mute="1" solo="0" height="98" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="236523">
+				<waveblock start="0">
+					<simpleblockfile filename="e080876f.au" len="236523" min="-0.253458" max="0.24573" rms="0.014767"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="0" linked="1" mute="0" solo="0" height="99" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20704">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d1b.au" len="20704" min="-0.626775" max="0.807113" rms="0.116703"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="1" linked="0" mute="0" solo="0" height="99" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20704">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088da.au" len="20704" min="-0.290072" max="0.35857" rms="0.055874"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="0" linked="1" mute="0" solo="0" height="92" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30977">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d6e.au" len="30977" min="-0.708562" max="0.752738" rms="0.095824"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="1" linked="0" mute="0" solo="0" height="92" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30977">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808aee.au" len="30977" min="-0.252864" max="0.375164" rms="0.036851"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="0" linked="1" mute="0" solo="0" height="108" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27056">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080b3.au" len="27056" min="-0.885009" max="0.683875" rms="0.123008"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="1" linked="0" mute="0" solo="0" height="108" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cb6.au" len="27056" min="-0.450567" max="0.570137" rms="0.068698"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="0" linked="1" mute="0" solo="0" height="106" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808058.au" len="27840" min="-1.0" max="0.970574" rms="0.116812"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="79391__j1987__wood-hit" channel="1" linked="0" mute="0" solo="0" height="106" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808781.au" len="27840" min="-0.710313" max="0.690115" rms="0.078482"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
