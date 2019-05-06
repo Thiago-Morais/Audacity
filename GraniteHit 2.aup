@@ -1,0 +1,163 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="GraniteHit 2_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.1104761905" vpos="0" h="0.0000000000" zoom="15186.2817924064" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1338134">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cef.au" len="262144" min="-0.516684" max="0.610715" rms="0.005723"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08083cf.au" len="262144" min="-0.394477" max="0.45389" rms="0.004286"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080824c.au" len="262144" min="-0.604589" max="0.635704" rms="0.005887"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080861e.au" len="262144" min="-0.06426" max="0.08803" rms="0.002495"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808105.au" len="144779" min="-0.038087" max="0.044821" rms="0.001693"/>
+				</waveblock>
+				<waveblock start="1193355">
+					<simpleblockfile filename="e0808ec7.au" len="144779" min="-0.037962" max="0.047053" rms="0.002526"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="0" solo="1" height="68" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c6f.au" len="4872" min="-0.832305" max="1.0" rms="0.046942"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="72" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808640.au" len="4872" min="-0.845925" max="1.0" rms="0.043926"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="72" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ca1.au" len="4872" min="-0.824514" max="1.0" rms="0.046709"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="67" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089d6.au" len="4872" min="-0.855979" max="1.0" rms="0.046836"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="72" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082bb.au" len="4872" min="-0.886373" max="1.0" rms="0.048047"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="67" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e080830b.au" len="4872" min="-0.887782" max="1.0" rms="0.049651"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="68" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808954.au" len="4872" min="-0.868995" max="1.0" rms="0.047238"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="70" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e080883d.au" len="4872" min="-0.881801" max="1.0" rms="0.051367"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="72" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808977.au" len="4872" min="-0.872443" max="1.0" rms="0.050193"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="74" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e080881d.au" len="4872" min="-0.904501" max="1.0" rms="0.048716"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="70" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f5a.au" len="4872" min="-0.95095" max="1.0" rms="0.048869"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="72" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5723">
+				<waveblock start="0">
+					<simpleblockfile filename="e080864f.au" len="4872" min="-0.908052" max="1.0" rms="0.04918"/>
+				</waveblock>
+				<waveblock start="4872">
+					<simpleblockfile filename="e08080c2.au" len="851" min="-0.001603" max="0.001733" rms="0.000519"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="249834__unclesigmund__stone-tap" channel="2" linked="0" mute="1" solo="0" height="67" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808226.au" len="4872" min="-0.704779" max="1.0" rms="0.04285"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

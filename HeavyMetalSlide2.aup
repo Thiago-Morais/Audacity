@@ -1,0 +1,350 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="HeavyMetalSlide2_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.0000000000" vpos="880" h="0.0000000000" zoom="395.9775887684" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2018"/>
+		<tag name="Software" value="Adobe Audition CC (Windows)"/>
+		<tag name="TITLE" value="metallic slide scrape 2"/>
+		<tag name="ARTIST" value="toddcircle"/>
+		<tag name="GENRE" value="Foley"/>
+	</tags>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="0" linked="1" mute="1" solo="0" height="39" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="22768">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808413.au" len="19694" min="-0.582478" max="0.526781" rms="0.11672"/>
+				</waveblock>
+				<waveblock start="19694">
+					<simpleblockfile filename="e08083a5.au" len="3074" min="-0.085059" max="0.082473" rms="0.025657"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="1" linked="0" mute="1" solo="0" height="39" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="22768">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808157.au" len="19694" min="-0.387144" max="0.381276" rms="0.068548"/>
+				</waveblock>
+				<waveblock start="19694">
+					<simpleblockfile filename="e0808844.au" len="3074" min="-0.054828" max="0.044354" rms="0.017016"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="119494__ingudios__slide-lock-1" channel="0" linked="1" mute="1" solo="0" height="36" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9755">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808175.au" len="2032" min="-0.07659" max="0.079975" rms="0.019453"/>
+				</waveblock>
+				<waveblock start="2032">
+					<simpleblockfile filename="e08080fb.au" len="7723" min="-0.149514" max="0.142242" rms="0.036802"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="119494__ingudios__slide-lock-1" channel="1" linked="0" mute="1" solo="0" height="36" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9755">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808716.au" len="2032" min="-0.137134" max="0.166801" rms="0.036075"/>
+				</waveblock>
+				<waveblock start="2032">
+					<simpleblockfile filename="e0808b07.au" len="7723" min="-0.213995" max="0.218332" rms="0.048831"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="0" linked="1" mute="1" solo="0" height="36" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="16041">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808938.au" len="16041" min="-0.249703" max="0.211328" rms="0.054212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="1" linked="0" mute="1" solo="0" height="36" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="16041">
+				<waveblock start="0">
+					<simpleblockfile filename="e080888f.au" len="16041" min="-0.155681" max="0.144358" rms="0.037594"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="0" linked="1" mute="1" solo="0" height="34" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21853">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808896.au" len="21853" min="-0.403399" max="0.315822" rms="0.063569"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="1" linked="0" mute="1" solo="0" height="34" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21853">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808317.au" len="21853" min="-0.276812" max="0.330749" rms="0.057437"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="0" linked="1" mute="1" solo="0" height="37" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26270">
+				<waveblock start="0">
+					<simpleblockfile filename="e080840c.au" len="26270" min="-0.607498" max="0.600766" rms="0.135567"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405667__anthousai__metal-bowl-handling-and-sliding-around-on-counter-01" channel="1" linked="0" mute="1" solo="0" height="37" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26270">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c1c.au" len="26270" min="-0.308105" max="0.327697" rms="0.070038"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3403829">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087c4.au" len="262144" min="-0.183642" max="0.101873" rms="0.015888"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08088a9.au" len="262144" min="-0.118621" max="0.134912" rms="0.039605"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080855b.au" len="262144" min="-0.1205" max="0.135209" rms="0.036476"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808fbe.au" len="262144" min="-0.157442" max="0.098988" rms="0.005987"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808733.au" len="262144" min="-0.204349" max="0.162443" rms="0.043804"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808b64.au" len="262144" min="-0.192265" max="0.140369" rms="0.00777"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808c89.au" len="262144" min="-0.00985" max="0.006415" rms="0.0019"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808e0a.au" len="262144" min="-0.091903" max="0.120352" rms="0.008749"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808f3c.au" len="262144" min="-0.524201" max="0.563428" rms="0.015533"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808428.au" len="262144" min="-0.177111" max="0.225009" rms="0.019409"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0808fb3.au" len="262144" min="-0.154488" max="0.12785" rms="0.012958"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0808321.au" len="262144" min="-0.500473" max="0.665893" rms="0.045153"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0808edf.au" len="258101" min="-0.211836" max="0.269396" rms="0.021308"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3403829">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089da.au" len="262144" min="-0.22084" max="0.115076" rms="0.017309"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080830e.au" len="262144" min="-0.134427" max="0.134989" rms="0.041834"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808036.au" len="262144" min="-0.147978" max="0.142385" rms="0.041473"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08088c1.au" len="262144" min="-0.069474" max="0.065782" rms="0.005226"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808681.au" len="262144" min="-0.321389" max="0.393264" rms="0.090782"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080841b.au" len="262144" min="-0.279247" max="0.255363" rms="0.016575"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e080897c.au" len="262144" min="-0.025357" max="0.02418" rms="0.003165"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808bd0.au" len="262144" min="-0.28633" max="0.221406" rms="0.019697"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808996.au" len="262144" min="-0.635292" max="0.584018" rms="0.018863"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e080891b.au" len="262144" min="-0.264873" max="0.234394" rms="0.023311"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0808951.au" len="262144" min="-0.142862" max="0.150298" rms="0.013328"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0808d15.au" len="262144" min="-0.9999" max="0.756497" rms="0.065389"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0808129.au" len="258101" min="-0.311057" max="0.242402" rms="0.026296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="443883__toddcircle__metallic-slide-scrape-2" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="425763">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bc6.au" len="262144" min="-0.838586" max="0.891228" rms="0.0247"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808c75.au" len="163619" min="-0.497395" max="0.521098" rms="0.014845"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="HeavyMetalSlideA" channel="0" linked="1" mute="1" solo="0" height="71" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a5b.au" len="34848" min="-0.182373" max="0.102051" rms="0.016093"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="HeavyMetalSlideA" channel="1" linked="0" mute="1" solo="0" height="71" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f10.au" len="34848" min="-0.218262" max="0.118011" rms="0.020472"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="0" linked="1" mute="1" solo="0" height="22" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="39113">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fab.au" len="10546" min="-0.158415" max="0.101873" rms="0.022842"/>
+				</waveblock>
+				<waveblock start="10546">
+					<simpleblockfile filename="e08089f1.au" len="28567" min="-0.179978" max="0.085329" rms="0.020083"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="1" linked="0" mute="1" solo="0" height="22" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="39113">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a71.au" len="10546" min="-0.22084" max="0.115076" rms="0.036637"/>
+				</waveblock>
+				<waveblock start="10546">
+					<simpleblockfile filename="e0808b3d.au" len="28567" min="-0.181347" max="0.091861" rms="0.022167"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="443883__toddcircle__metallic-slide-scrape-2" channel="2" linked="0" mute="1" solo="0" height="44" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.05596875" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27638">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f26.au" len="27638" min="-0.042217" max="0.040293" rms="0.00427"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="54254">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eeb.au" len="14607" min="-0.105608" max="0.115806" rms="0.043378"/>
+				</waveblock>
+				<waveblock start="14607">
+					<simpleblockfile filename="e080816b.au" len="39647" min="-0.049672" max="0.050575" rms="0.007541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="54254">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084cf.au" len="14607" min="-0.147978" max="0.127158" rms="0.050317"/>
+				</waveblock>
+				<waveblock start="14607">
+					<simpleblockfile filename="e08083dc.au" len="39647" min="-0.0593" max="0.052525" rms="0.008683"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="443883__toddcircle__metallic-slide-scrape-2" channel="2" linked="0" mute="0" solo="0" height="69" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.05596875" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34062">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808093.au" len="34062" min="-0.038" max="0.037725" rms="0.005289"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="0" linked="1" mute="1" solo="0" height="39" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ea6.au" len="43881" min="-0.115029" max="0.098988" rms="0.028148"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="399005__anthousai__dish-metal-thermos-sounds-01" channel="1" linked="0" mute="1" solo="0" height="39" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43881">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087f4.au" len="43881" min="-0.183632" max="0.156769" rms="0.047647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="443883__toddcircle__metallic-slide-scrape-2" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.05596875" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="37093">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080e9.au" len="37093" min="-0.042223" max="0.04034" rms="0.008086"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
