@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="LightMetalSlide_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="1001.7838030681" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Adobe Audition CC (Windows)"/>
+		<tag name="YEAR" value="2015-10-29T12:44:16-07:00"/>
+	</tags>
+	<wavetrack name="95272__department64__metal-ring-01" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.11691610" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="142847">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084ab.au" len="142847" min="-0.448181" max="0.387421" rms="0.020788"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30298">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bdf.au" len="30298" min="-0.003058" max="0.003162" rms="0.000556"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95272__department64__metal-ring-01" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.11691610" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="142847">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808197.au" len="142847" min="-0.354889" max="0.411377" rms="0.01851"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30298">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f82.au" len="30298" min="-0.002607" max="0.002533" rms="0.000495"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2600">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cc7.au" len="2600" min="-0.002808" max="0.002312" rms="0.00066"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2600">
+				<waveblock start="0">
+					<simpleblockfile filename="e080850c.au" len="2600" min="-0.002714" max="0.002908" rms="0.000758"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="0" linked="1" mute="1" solo="0" height="151" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="336360">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808257.au" len="262144" min="-0.586398" max="0.548796" rms="0.085623"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08086ae.au" len="74216" min="-0.36499" max="0.417899" rms="0.056677"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="1" linked="0" mute="1" solo="0" height="151" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="336360">
+				<waveblock start="0">
+					<simpleblockfile filename="e08086a7.au" len="262144" min="-0.496386" max="0.467656" rms="0.076866"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08085c3.au" len="74216" min="-0.307031" max="0.389911" rms="0.043952"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.23957265" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="70147">
+				<waveblock start="0">
+					<simpleblockfile filename="e080844f.au" len="70147" min="-0.005211" max="0.005468" rms="0.000998"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.23957265" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="70147">
+				<waveblock start="0">
+					<simpleblockfile filename="e080852e.au" len="70147" min="-0.005623" max="0.005288" rms="0.001088"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.76589583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3210">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808242.au" len="3210" min="-0.002793" max="0.002886" rms="0.000741"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="328526__humanoide9000__fork-scraping-metal-2" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.76589583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3210">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808036.au" len="3210" min="-0.003162" max="0.003112" rms="0.000864"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

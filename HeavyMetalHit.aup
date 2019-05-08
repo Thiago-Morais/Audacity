@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="HeavyMetalHit_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="3.6234013605" vpos="512" h="0.0000000000" zoom="484.3515319916" rate="96000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="Beep Short "/>
+		<tag name="ALBUM" value="YouTube Audio Library"/>
+	</tags>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="0" linked="1" mute="0" solo="0" height="34" minimized="1" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="194741">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f57.au" len="194741" min="-0.354012" max="0.347731" rms="0.013388"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="1" linked="0" mute="0" solo="0" height="34" minimized="1" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="194741">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a2.au" len="194741" min="-0.354813" max="0.340546" rms="0.014633"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="0" linked="1" mute="0" solo="0" height="33" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8799">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e38.au" len="8799" min="-0.26987" max="0.323655" rms="0.069751"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="1" linked="0" mute="0" solo="0" height="33" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8799">
+				<waveblock start="0">
+					<simpleblockfile filename="e080806f.au" len="8799" min="-0.218354" max="0.225001" rms="0.050818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="70212">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ee4.au" len="70212" min="-0.334004" max="0.338832" rms="0.035069"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="70212">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808de8.au" len="70212" min="-0.354821" max="0.350855" rms="0.031899"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.01031746" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="12698">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f17.au" len="12698" min="-0.30653" max="0.29752" rms="0.062393"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.01031746" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="12698">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b65.au" len="12698" min="-0.319923" max="0.329541" rms="0.063011"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="159792">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808425.au" len="159792" min="-0.401767" max="0.387032" rms="0.026405"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="95275__department64__metal-rings-04" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="159792">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082b5.au" len="159792" min="-0.400003" max="0.50807" rms="0.024363"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99318">
+				<waveblock start="0">
+					<simpleblockfile filename="e08085ff.au" len="99318" min="-0.621559" max="0.623111" rms="0.033912"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="405665__anthousai__metal-bowl-hit-with-wooden-spoon-01" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99318">
+				<waveblock start="0">
+					<simpleblockfile filename="e080810e.au" len="99318" min="-0.614879" max="0.61242" rms="0.037042"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
